@@ -1,0 +1,5 @@
+a.out: herd.c
+	gcc -lGL -lGLU -lglut herd.c
+
+clean:
+	rm a.out
