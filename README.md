@@ -12,5 +12,8 @@ Parallel Computing 1:
 
 3) Mandelbrot: Mandelbrot Animation with Zooming
 
+4) Conway's Game of Life (conway)
 
 Parallel Computing 2:
+
+
