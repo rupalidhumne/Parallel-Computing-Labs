@@ -10,4 +10,7 @@ Parallel Computing 1:
 
 2) Forest Fires: A program which takes into account tree density to generate data regarding how many trees would burn in a forest fire using parallel processing
 
-Programs developed in the Parallel Computing 1 and 2 Course
+3) Mandelbrot: Mandelbrot Animation with Zooming
+
+
+Parallel Computing 2:
