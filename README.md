@@ -8,4 +8,6 @@ Parallel Computing 1:
 
 1) Huffman Encryption and Decryption: Decoding and Encoding conducted via an algorithm to perform both Huffman compression and decompression
 
+2) Forest Fires: A program which takes into account tree density to generate data regarding how many trees would burn in a forest fire using parallel processing
+
 Programs developed in the Parallel Computing 1 and 2 Course
