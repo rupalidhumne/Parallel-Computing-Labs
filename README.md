@@ -6,6 +6,6 @@ Programs:
 
 Parallel Computing 1:
 
-1) 
+1) Huffman Encryption and Decryption: Decoding and Encoding conducted via an algorithm to perform both Huffman compression and decompression
 
 Programs developed in the Parallel Computing 1 and 2 Course
