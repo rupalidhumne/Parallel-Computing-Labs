@@ -12,8 +12,12 @@ Parallel Computing 1:
 
 3) Mandelbrot: Mandelbrot Animation with Zooming
 
-4) Conway's Game of Life (conway)
+4) Conway's Game of Life: (Conway) via Nearest Neighbor Coupling
 
 Parallel Computing 2:
+
+1) Raytracing: A raytracer that uses a MPI shared memory model to parallel process & render the image
+
+2) N-Body problem: (NBody) via all pairs coupling
 
 
